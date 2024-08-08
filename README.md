@@ -47,7 +47,7 @@ Excellent communication and teamwork abilities.
 
 Women Techster Fellowship; Cybersecurity, September, 2024
   
-Google Professional cybersecurity certificate; Coursera, May, 2024
+Google Professional cybersecurity certificate; Coursera, May, 2024   <img src="https://img.shields.io/badge/-Google-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
 University of Ibadan– Ibadan, Nigeria, B.sc, Wildlife and Ecotourism Management,May, 2019
 
