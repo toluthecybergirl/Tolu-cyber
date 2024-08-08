@@ -37,16 +37,21 @@ Excellent communication and teamwork abilities.
 
 
 ## Certifications
-<a href="https://www.credly.com/badges/fff1e83b-dae4-4d5e-a469-3599b810ef51/public_url">NNetworking Devices and Initial Configuration<a/>
+<a href="https://www.credly.com/badges/fff1e83b-dae4-4d5e-a469-3599b810ef51/public_url">Cisco Networking Devices and Initial Configuration<a/>
 
-<a href="https://www.credly.com/badges/2c1367c1-3d88-4241-ac9a-3e6415b1b4bc/public_url">Networking basics<a/>
+<a href="https://www.credly.com/badges/2c1367c1-3d88-4241-ac9a-3e6415b1b4bc/public_url">Cisco Networking basics<a/>
 
-ISC2 CC <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="39292ef2-bbdc-4b98-9d2b-4f943bd6a3c6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/39292ef2-bbdc-4b98-9d2b-4f943bd6a3c6/public_url">ISC2 CC<a/>
 
 ## Education
 
+Women Techster Fellowship; Cybersecurity, September, 2024
+  
+Google Professional cybersecurity certificate; Coursera, May, 2024
 
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+University of Ibadan– Ibadan, Nigeria, B.sc, Wildlife and Ecotourism Management,May, 2019
+
+
+
 
 
