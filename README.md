@@ -10,15 +10,15 @@ I seek opportunities to expand my knowledge and skills in cybersecurity leveragi
 
 ## Projects and Labs
 
-Security risk assessment report    <a href="https://docs.google.com/document/d/1TWG3pZK1otwJ_idyQIiWj9k650ybQNdW2KBf9fpXEoQ/edit?resourcekey=0-oaxJNtm1ps4fqXw9hQ0VLA">security assessment report</a>
+<a href="https://github.com/toluthecybergirl/Packet-tracer-Project/blob/main/README.md">Troubleshoot a wireless connection Cisco Packet Tracer<a/>
 
-Tcpdump traffic log report writing  <a href="https://docs.google.com/document/d/1PQrDe9oaZH3BrhZDWgG-O07JAlMf7t4iOsIsf0HBGZg/edit">Tcpdump Report writing<a/>
+Security risk assessment report    <a href="https://docs.google.com/document/d/1TWG3pZK1otwJ_idyQIiWj9k650ybQNdW2KBf9fpXEoQ/edit?resourcekey=0-oaxJNtm1ps4fqXw9hQ0VLA">Security risk assessment report</a>
 
-Troubleshoot a wireless connection Cisco Packet Tracer
+<a href="https://docs.google.com/document/d/1PQrDe9oaZH3BrhZDWgG-O07JAlMf7t4iOsIsf0HBGZg/edit">Tcpdump traffic log report writing<a/>
 
 Wireshark
 
-LINUX  <a href="https://docs.google.com/document/d/1qp51NVPq6ICU3CcpQlsyc3mI-FcQEDS5f7CfSwks5y8/edit#heading=h.adnh333husy">Linux project</a>
+<a href="https://docs.google.com/document/d/1qp51NVPq6ICU3CcpQlsyc3mI-FcQEDS5f7CfSwks5y8/edit#heading=h.adnh333husy">Linux project</a>
 
 
 ## Skills
