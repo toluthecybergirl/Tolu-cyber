@@ -12,11 +12,9 @@ I seek opportunities to expand my knowledge and skills in cybersecurity leveragi
 
 Security risk assessment report    <a href="https://docs.google.com/document/d/1TWG3pZK1otwJ_idyQIiWj9k650ybQNdW2KBf9fpXEoQ/edit?resourcekey=0-oaxJNtm1ps4fqXw9hQ0VLA">security assessment report</a>
 
-Tcpdump traffic log report writing  <a href="https://docs.google.com/document/d/1PQrDe9oaZH3BrhZDWgG-O07JAlMf7t4iOsIsf0HBGZg/edit
-Vulnerability assessment testing with metasploit">TCPDUMP report writing<a/>
+Tcpdump traffic log report writing  <a href="https://docs.google.com/document/d/1PQrDe9oaZH3BrhZDWgG-O07JAlMf7t4iOsIsf0HBGZg/edit">Tcpdump Report writing<a/>
 
-Cisco Packet Tracer
-<img src="https://img.shields.io/badge/Cisco-%23049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+Troubleshoot a wireless connection Cisco Packet Tracer
 
 Wireshark
 
